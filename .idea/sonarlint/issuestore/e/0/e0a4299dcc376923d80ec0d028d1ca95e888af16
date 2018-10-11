@@ -1,0 +1,6 @@
+
+isquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(Ä¥ÄK8ƒ¿¹±ã,
+nsquid:UselessImportCheck"@Remove this unused import 'android.support.annotation.Nullable'.(Ö‹øïüÿÿÿÿ8ƒ¿¹±ã,
+Ysquid:UselessImportCheck"+Remove this unused import 'java.util.UUID'.(ÀãÄ£úÿÿÿÿ8ƒ¿¹±ã,
+\squid:UselessImportCheck".Remove this unused import 'android.os.Bundle'.(°þÊóøÿÿÿÿ8ƒ¿¹±ã,
+gsquid:UselessImportCheck"9Remove this unused import 'android.os.PersistableBundle'.(Ñƒ¨’øÿÿÿÿ8ƒ¿¹±ã,

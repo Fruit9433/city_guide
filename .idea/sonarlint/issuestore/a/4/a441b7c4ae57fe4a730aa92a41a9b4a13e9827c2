@@ -1,0 +1,12 @@
+
+Ysquid:S1068"8Remove this unused "KEEP_ALIVE_TIME_UNIT" private field.(â‰ä“şÿÿÿÿ8¯Ã¹¹ã,
+ssquid:UselessImportCheck"ERemove this unused import 'java.util.concurrent.LinkedBlockingQueue'.(ŸØšüÿÿÿÿ8¸‘Ó¸ã,
+msquid:UselessImportCheck"?Remove this unused import 'java.util.concurrent.BlockingQueue'.(÷ÙÑÿÿÿÿÿ8î¦Ò¸ã,
+Osquid:S1068"4Remove this unused "mResponseHandler" private field.(‚›8µ‚Ê¹ã,
+Zsquid:S1068">Remove this unused "mThumbnailDownloadListener" private field.(“œîâ8µ‚Ê¹ã,
+Nsquid:S1068"3Remove this unused "KEEP_ALIVE_TIME" private field.(¶Şä=8¯Ã¹¹ã,
+esquid:UnusedPrivateMethod"6Remove this unused private "DbDownloader" constructor.(™ßµşÿÿÿÿ8Ò˜Í¹ã,
+vsquid:S3008"ZRename this field "NUMBER_OF_CORES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÿÿé8ûü¼¸ã,
+ssquid:UselessImportCheck"ERemove this unused import 'java.util.concurrent.LinkedBlockingDeque'.(ÌÇœüÿÿÿÿ8·éÉ¸ã,
+…squid:S1450"iRemove the "mThumbnailDownloadListener" field and declare it as a local variable in the relevant methods.(“œîâ8µ‚Ê¹ã,
+msquid:UselessImportCheck"DRemove this unused import 'java.util.concurrent.ThreadPoolExecutor'.(¦ÿöÊ8Ü’º¹ã,

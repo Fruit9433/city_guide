@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f1f2f5</color>
+    <color name="colorPrimaryDark">#a7a7ac</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="title">#222222</color>
+    <color name="viewBg">#e8eaec</color>
+    <color name="white">#fff</color>
+    <color name="backgroudcolor">#f6464d</color>
+    <color name="backgrounddark">#8b3f3f</color>
+    <color name="black">#999999</color>
+    <color name="yello">#ffd860</color>
+    <color name="green">#88c057</color>
+    <color name="seekbarprogress">#f29193</color>
+    <color name="subtext">#bcbec2</color>
+    <color name="text">#1b2934</color>
+</resources>
