@@ -13,10 +13,6 @@ n
 >app/src/main/java/com/example/mikt/myapplication/Defaults.java,3\7\3706fb1d3b53b7cc3ddd864b10707b00b72c07df
 t
 Dapp/src/main/java/com/example/mikt/myapplication/NavigationHost.java,d\6\d67941ee5b9dca0efd80cf070c7c70e6ab9b659c
-n
->app/src/main/java/com/example/mikt/myapplication/PlaceLab.java,d\a\da005777222d2c32597d96b3252d37fa7101e311
-k
-;app/src/main/java/com/example/mikt/myapplication/Place.java,9\e\9e63fcde95c5232e587b3ffe8bbc85a58ba02776
 Å
 Qapp/src/main/java/com/example/mikt/myapplication/PlaceCommonCategoryActivity.java,e\0\e0a4299dcc376923d80ec0d028d1ca95e888af16
 Å
@@ -61,3 +57,15 @@ h
 8app/src/main/res/drawable-v24/ic_launcher_foreground.xml,0\7\078508c831007ccb3938b355f0d30a8368f99a8d
 Y
 )app/src/main/res/layout/activity_main.xml,7\6\76b07e40f24cce093536731477540f12e7da3cb6
+R
+"app/src/main/res/values/styles.xml,f\7\f79cc2688e29fcbc286fda14ae07b27c9e83690f
+S
+#app/src/main/res/values/strings.xml,d\2\d2281fbb3027de2722081a53408dd77628bf080e
+t
+Dapp/src/main/java/com/example/mikt/myapplication/model/PlaceLab.java,9\8\982c9c5c57b911f43567b4a73bf936bf055a5acc
+q
+Aapp/src/main/java/com/example/mikt/myapplication/model/Place.java,f\4\f4989ca7e63e308c18c348b6223168c15916a6f8
+s
+Capp/src/main/java/com/example/mikt/myapplication/model/CatLogo.java,4\5\45ac052fb97b69627ab7406d9e8449a8370be42f
+x
+Happ/src/main/java/com/example/mikt/myapplication/PlacePagerFragment.java,a\5\a5a27f2b934e9683433b908e822ae6a53d3dbbc1

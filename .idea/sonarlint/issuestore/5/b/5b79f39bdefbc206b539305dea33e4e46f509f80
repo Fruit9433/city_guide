@@ -1,5 +1,6 @@
 
-tsquid:S1450"ZRemove the "mTitleField" field and declare it as a local variable in the relevant methods.(ª¨´óşÿÿÿÿ
-tsquid:S1450"`Remove the "mPhoneNumberField" field and declare it as a local variable in the relevant methods.(¿ÓÀY
-squid:S1450"eRemove the "mShortDescriptionField" field and declare it as a local variable in the relevant methods.(ïÃ¥ûÿÿÿÿ
-lsquid:S1450"WRemove the "mAddress" field and declare it as a local variable in the relevant methods.(¶Î™Ç
+Xsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8€ı…›æ,
+{squid:S1450"ZRemove the "mCallButton" field and declare it as a local variable in the relevant methods.(û±‡†ıÿÿÿÿ8Ğƒ›æ,
+{squid:S1450"ZRemove the "mTitleField" field and declare it as a local variable in the relevant methods.(ª¨´óşÿÿÿÿ8Ğƒ›æ,
+ssquid:S1450"WRemove the "mAddress" field and declare it as a local variable in the relevant methods.(¶Î™Ç8Ğƒ›æ,
+†squid:S1450"eRemove the "mShortDescriptionField" field and declare it as a local variable in the relevant methods.(ïÃ¥ûÿÿÿÿ8Ğƒ›æ,

@@ -1,6 +1,0 @@
-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Üü¡ºã,
-Psquid:S1444"/Make this "public static sPlaceLab" field final(æ¢”Âùÿÿÿÿ8Üü¡ºã,
-bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8Üü¡ºã,
-ssquid:S1450"WRemove the "mComCats" field and declare it as a local variable in the relevant methods.(êÙ¯¶8Üü¡ºã,
-"squid:ClassVariableVisibilityCheck"UMake sPlaceLab a static final constant or non-public and provide accessors if needed.(æ¢”Âùÿÿÿÿ8Üü¡ºã,
